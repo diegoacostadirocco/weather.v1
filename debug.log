@@ -1,0 +1,3 @@
+[0201/124825.718:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0201/165032.243:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Eze\AppData\Local\CCleaner Browser\User Data\Crashpad\attachments\ae296bbe-825f-4dc5-b5df-f4a20eba1b6c: El sistema no puede encontrar la ruta especificada. (0x3)
+[0202/135605.527:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
